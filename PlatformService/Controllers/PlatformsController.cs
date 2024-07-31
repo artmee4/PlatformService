@@ -1,4 +1,4 @@
-using System.Reflection.Metadata.Ecma335;
+/*using System.Reflection.Metadata.Ecma335;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PlatformService.Data;
@@ -71,4 +71,4 @@ public class PlatformsController : ControllerBase
         return CreatedAtRoute(nameof(GetPlatformById), new { Id = platformReadDto.Id }, platformReadDto);
     }
    
-}
+}*/

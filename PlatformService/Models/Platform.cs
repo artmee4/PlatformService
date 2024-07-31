@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿/*using System.ComponentModel.DataAnnotations;
 
 namespace PlatformService.Models
 {
@@ -18,5 +18,5 @@ namespace PlatformService.Models
         [Required]
         public string Cost { get; set; }
     }
-}
+}*/
 
